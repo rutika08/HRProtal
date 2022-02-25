@@ -14,5 +14,11 @@
     "Management"
   ],
   "author": "rutika",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "express": "^4.17.2",
+    "mongoose": "^6.2.1",
+    "node-modules": "^1.0.1"
+  }
 }
